@@ -13,7 +13,7 @@ git clone https://github.com/UtkJaiswal/text-to-query-frontend.git
 - Change to project directory
 
 ```bash
-cd byte-genie-frontend
+cd text-to-query-frontend
 ```
 
 ### Install the dependencies
