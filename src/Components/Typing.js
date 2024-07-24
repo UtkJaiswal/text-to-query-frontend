@@ -143,7 +143,7 @@ export default () => (
     texts={[
       "Find sales people for companies that are attending events in Singapore",
       "Get me companies that are attending Trading related events",
-      "I need the email addresses and names of people working for companies that are attending finance and banking events"
+      "I need the email addresses and names of people working for companies that are attending events in Marina Bay Sands"
     ]}
   />
 );
