@@ -141,7 +141,6 @@ const StyledLoopingTypingEffect = ({ texts, typingSpeed = 50, deletingSpeed = 30
 export default () => (
   <StyledLoopingTypingEffect 
     texts={[
-      "Find sales people for companies that are attending events in Singapore",
       "Get me companies that are attending Trading related events",
       "I need the email addresses and names of people working for companies that are attending events in Marina Bay Sands"
     ]}
